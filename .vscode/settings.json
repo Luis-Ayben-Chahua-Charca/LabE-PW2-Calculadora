@@ -3,5 +3,25 @@
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar"
-    ]
+    ],
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#e61e52",
+        "activityBar.activeBorder": "#45c916",
+        "activityBar.background": "#e61e52",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#45c916",
+        "activityBarBadge.foreground": "#15202b",
+        "sash.hoverBorder": "#e61e52",
+        "statusBar.background": "#bc1540",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#e61e52",
+        "statusBarItem.remoteBackground": "#bc1540",
+        "statusBarItem.remoteForeground": "#e7e7e7",
+        "titleBar.activeBackground": "#bc1540",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#bc154099",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#bc1540"
 }
