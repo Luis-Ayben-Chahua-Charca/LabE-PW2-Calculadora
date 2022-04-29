@@ -7,6 +7,7 @@
     "workbench.colorCustomizations": {
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "activityBar.activeBackground": "#e61e52",
         "activityBar.activeBorder": "#45c916",
         "activityBar.background": "#e61e52",
@@ -48,6 +49,8 @@
     "peacock.color": "#1938d6"
 >>>>>>> Stashed changes
 =======
+=======
+>>>>>>> Stashed changes
         "activityBar.activeBackground": "#abebda",
         "activityBar.activeBorder": "#c67ee0",
         "activityBar.background": "#abebda",
@@ -67,5 +70,8 @@
         "titleBar.inactiveForeground": "#15202b99"
     },
     "peacock.color": "#82e1c8"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 }
