@@ -81,7 +81,7 @@ commit de agregacionde GUI y agregacionde  de suma <br>
 Creacion de GUI que nos  propocionara una iterfaz que falicitara el manejo <br>
 <td><img src="GUI.PNG" alt=" " style="width:100%; height:auto"/></td>
 - commit de agregracion suma <br>
-se crea un metodo sumara los numeros ingresados en la interfaz <br>
+se crea un metodo que sumara los numeros ingresados en la interfaz <br>
 <td><img src="suma.PNG" alt=" " style="width:100%; height:auto"/></td>
 
 
