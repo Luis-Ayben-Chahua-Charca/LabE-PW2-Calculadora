@@ -38,7 +38,7 @@
 <td>FECHA DE PRESENTACION:</td><td>29-Abr-2022</td><td>HORA DE PRESENTACION</td><td>29-Abr-2022</td><td>DURACIÓN:</td><td>04 horas</td>
 </tr>
 <tr>
-<td>ESTUDIANTES:</td><td colspan ="3"><li>Luis Ayben Chahua Charca</li><li>Luis Fernando Chambi Orosco</li> </td><td>NOTA:</td><td >20</td>
+<td>ESTUDIANTES:</td><td colspan ="4"><li>Luis Ayben Chahua Charca</li><li>Luis Fernando Chambi Orosco</li> </td><td>NOTA:</td><td > </td>
 
 </tr>
 <tr><td colspan="6">DOCENTES:
@@ -71,14 +71,26 @@ Agregando una firma personal<br>
 <td><img src="commit3.PNG" alt=" " style="width:100%; height:auto"/></td>
 
 
+
+TRABAJO GRUPAL<br>
+Crear una clase Calculator en Java, que tenga las siguientes operaciones: add, sub, mul, div, mod; estas operaciones recibirán dos enteros y devolverán un entero.<br>
+Chambi Orosco Luis Fernando<br>
+commit de agregacionde GUI y agregacionde  de suma <br>
+
+- commit agregacion GUI<br>
+Creacion de GUI que nos  propocionara una iterfaz que falicitara el manejo <br>
+<td><img src="GUI.PNG" alt=" " style="width:100%; height:auto"/></td>
+- commit de agregracion suma <br>
+se crea un metodo sumara los numeros ingresados en la interfaz <br>
+<td><img src="suma.PNG" alt=" " style="width:100%; height:auto"/></td>
+
+
 ##  2 SOLUCION DEL CUESTIONARIO 
-- Git
-- GitHub
+- ¿Por qué Git es una herramienta importante en el curso de Programación Web 2?
 
 ## 3 CONCLUSIONES
-- C.c Diseña responsablemente sistemas, componentes o procesos para satisfacer necesidades dentro de restricciones realistas: económicas, medio ambientales, sociales, políticas, éticas, de salud, de seguridad, manufacturación y sostenibilidad.
-- C.m Construye responsablemente soluciones siguiendo un proceso adecuado llevando a cabo las pruebas ajustada a los recursos disponibles del cliente.
-- C.p Aplica de forma flexible técnicas, métodos, principios, normas, estándares y herramientas de ingeniería necesarias para la construcción de software e implementación de sistemas de información.
+
+
 
 
 ## RETROALIMENTACION GENERAL 
