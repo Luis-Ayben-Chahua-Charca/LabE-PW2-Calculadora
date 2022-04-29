@@ -1,7 +1,12 @@
 package defecto;
 public class calculator{
     public static void main(String args[]){
-        System.out.print("calculadora ps mi king");
-        System.out.print("no entideno de caldular que es add y mod xd");
+        Ventana calculadora =  new Ventana();
+
+        int var1 = calculadora.getVariable1();
+        int var2 = calculadora.getVariable2();
+        
+        
+
     }
 }
