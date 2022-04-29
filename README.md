@@ -70,6 +70,23 @@ Agregando mensaje de bienvenida al curso de programacion web2<br>
 Agregando una firma personal<br>
 <td><img src="commit3.PNG" alt=" " style="width:100%; height:auto"/></td>
 
+- SOLUCION INDIVIDUAL<br>
+Chahua Charca, Luis Ayben<br>
+Link del repositorio individual   https://github.com/Luis-Ayben-Chahua-Charca/Lab-PW2-Repositorio-personal.git<br>
+Creacion del proyecto incial + la clase HolaMundo <br>
+Se crean varios commit <br>
+-lista de commits <br>
+<td><img src="listacommits.JPG" alt=" " style="width:100%; height:auto"/></td>
+
+- Segundo commit<br>
+agregando mas print al holamundo original<br>
+<td><img src="2docommit.JPG" alt=" " style="width:100%; height:auto"/></td>
+
+
+- Tercer commit<br>
+Agregando el nombre para reconocer autoria<br>
+<td><img src="3ercommit.JPG" alt=" " style="width:100%; height:auto"/></td>
+
 
 ##  2 SOLUCION DEL CUESTIONARIO 
 - Git
