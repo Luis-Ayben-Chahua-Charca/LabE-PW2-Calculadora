@@ -1,15 +1,12 @@
 package defecto;
-public class calculator{
-    public static void main(String args[]){
-        Ventana calculadora =  new Ventana();
+import java.awt.Color;
+import java.awt.Container;
+import java.awt.FlowLayout;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import javax.swing.*;
 
-        int var1 = calculadora.getVariable1();
-        int var2 = calculadora.getVariable2();
-        
-        
 
-<<<<<<< Updated upstream
-=======
 public class calculator extends JFrame implements ActionListener {
     
   private JButton btnsuma,btnresta,btnmulti,btndiv,btnlimpiar,btnmod,btnsalir;
@@ -79,78 +76,26 @@ public class calculator extends JFrame implements ActionListener {
           camporesultado.setText(resultado);
          }          
         } 
-
-        if (e.getSource() == btnmulti) {
-			if (valor1.getText().equals("") || valor2.getText().equals("")) {
-				JOptionPane.showMessageDialog(null, "Los datos no están completos", "Error",
-						JOptionPane.WARNING_MESSAGE);
-			} else {
-				num1 = Double.parseDouble(valor1.getText());
-				num2 = Double.parseDouble(valor2.getText());
-				resu = num1 * num2;
-				resultado = String.valueOf(resu);
-				camporesultado.setText(resultado);
-			}
-		}
-
-        if (e.getSource() == btnresta) {
-			if (valor1.getText().equals("") || valor2.getText().equals("")) {
-				JOptionPane.showMessageDialog(null, "Los datos no están completos", "Error",
-						JOptionPane.WARNING_MESSAGE);
-			} else {
-				num1 = Double.parseDouble(valor1.getText());
-				num2 = Double.parseDouble(valor2.getText());
-				resu = num1 - num2;
-				resultado = String.valueOf(resu);
-				camporesultado.setText(resultado);
-			}
-		}
-
-
-        if (e.getSource() == btndiv) {
-			if (valor1.getText().equals("") || valor2.getText().equals("")) {
-				JOptionPane.showMessageDialog(null, "Los datos no están completos", "Error",
-						JOptionPane.WARNING_MESSAGE);
-			} else if (valor2.getText().equals("0")) {
-
-                resultado = "indefinido";
-                camporesultado.setText(resultado);
-            }
-
-                else {
-				num1 = Double.parseDouble(valor1.getText());
-				num2 = Double.parseDouble(valor2.getText());
-				resu = num1 / num2;
-				resultado = String.valueOf(resu);
-				camporesultado.setText(resultado);
-                }
-		}
-
-        if (e.getSource() == btnmod) {
-			if (valor1.getText().equals("") || valor2.getText().equals("")) {
-				JOptionPane.showMessageDialog(null, "Los datos no están completos", "Error",
-						JOptionPane.WARNING_MESSAGE);
-			} else {
-				num1 = Double.parseDouble(valor1.getText());
-				num2 = Double.parseDouble(valor2.getText());
-				resu = num1 % num2;
-				resultado = String.valueOf(resu);
-				camporesultado.setText(resultado);
-			}
-		}
-
-
         if (e.getSource()==btnlimpiar){
          valor1.setText("");
             valor2.setText("");
             camporesultado.setText("");
-       }
-       
-       
+       } 
         if(e.getSource()==btnsalir)
         {
          System.exit(0);   
         }
->>>>>>> Stashed changes
     }
+     
+    public static void main(String[] args) {
+      JFrame.setDefaultLookAndFeelDecorated(true);
+      calculator calc = new calculator();
+      calc.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+    }
+      
+  
+    
 }
+
+
+
