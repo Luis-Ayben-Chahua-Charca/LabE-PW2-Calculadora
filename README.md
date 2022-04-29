@@ -38,7 +38,7 @@
 <td>FECHA DE PRESENTACION:</td><td>29-Abr-2022</td><td>HORA DE PRESENTACION</td><td>29-Abr-2022</td><td>DURACIÓN:</td><td>04 horas</td>
 </tr>
 <tr>
-<td>ESTUDIANTES:</td><td colspan ="3"><li>Luis Ayben Chahua Charca</li><li>Luis Fernando Chambi Orosco</li> </td><td>NOTA:</td><td >20</td>
+<td>ESTUDIANTES:</td><td colspan ="3"><li>Luis Ayben Chahua Charca</li><li>Luis Fernando Chambi Orosco</li> </td><td>NOTA:</td><td ></td>
 
 </tr>
 <tr><td colspan="6">DOCENTES:
@@ -87,16 +87,38 @@ agregando mas print al holamundo original<br>
 Agregando el nombre para reconocer autoria<br>
 <td><img src="3ercommit.JPG" alt=" " style="width:100%; height:auto"/></td>
 
+TRABAJO GRUPAL<br>
+Crear una clase Calculator en Java, que tenga las siguientes operaciones: add, sub, mul, div, mod; estas operaciones recibirán dos enteros y devolverán un entero.<br>
+Chambi Orosco Luis Fernando<br>
+commit de agregacionde GUI y agregacionde  de suma <br>
+
+- commit agregacion GUI<br>
+Creacion de GUI que nos  propocionara una iterfaz que falicitara el manejo <br>
+<td><img src="GUI.jpeg" alt=" " style="width:100%; height:auto"/></td>
+- commit de agregracion suma <br>
+se crea un metodo que sumara los numeros ingresados en la interfaz <br>
+<td><img src="suma.jpeg" alt=" " style="width:100%; height:auto"/></td>
+
+TRABAJO GRUPAL<br>
+Aplicar las funciones a los botones de funcion resta, multiplicacion, division y mod <br>
+Chahua Charca, Luis Ayben<br>
+commit que demuestra ello en la rama "borrador-chahua" <br>
+
+- commit agregacion funcionalidad<br>
+foto que muestra los varios intentos y correcciones a los commit<br>
+<td><img src="Funcionalidad.JPG" alt=" " style="width:100%; height:auto"/></td>
+- codigo usado para dar funcionalidad a los botones <br>
+<td><img src="funcionDiv.JPG" alt=" " style="width:100%; height:auto"/></td>
+
+
+
 
 ##  2 SOLUCION DEL CUESTIONARIO 
-- Git
-- GitHub
+- ¿Por qué Git es una herramienta importante en el curso de Programación Web 2?
+- Es una herramienta muy versatil a la hora de hacer trabajos grupales pues permite hacecr modificaciones sin estropear el trabajo y permitiendo la posibilidad de volver a una version anterior en caso el codigo se haya mezclado o ya no funcione. 
 
 ## 3 CONCLUSIONES
-- C.c Diseña responsablemente sistemas, componentes o procesos para satisfacer necesidades dentro de restricciones realistas: económicas, medio ambientales, sociales, políticas, éticas, de salud, de seguridad, manufacturación y sostenibilidad.
-- C.m Construye responsablemente soluciones siguiendo un proceso adecuado llevando a cabo las pruebas ajustada a los recursos disponibles del cliente.
-- C.p Aplica de forma flexible técnicas, métodos, principios, normas, estándares y herramientas de ingeniería necesarias para la construcción de software e implementación de sistemas de información.
-
+Es muy productivo trabajar con este tipo de tecnologia, sin embargo considero que (como grupo) aun nos falta conocer mas la plataforma, pues es comun que al haber cambio de planes a medio programa ocurran mezclas indeceadas y problemas con el codigo, afortunadamente para este proyecto si fuimos capaces de superarlo y entregar el trabajo lo mejor posible, ademas que su sistema de historial para cuando cierto codigo se pierde resulta ser muy util. 
 
 ## RETROALIMENTACION GENERAL 
 - 
