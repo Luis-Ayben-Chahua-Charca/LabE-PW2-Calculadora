@@ -38,7 +38,7 @@
 <td>FECHA DE PRESENTACION:</td><td>29-Abr-2022</td><td>HORA DE PRESENTACION</td><td>29-Abr-2022</td><td>DURACIÓN:</td><td>04 horas</td>
 </tr>
 <tr>
-<td>ESTUDIANTES:</td><td colspan ="4"><li>Luis Ayben Chahua Charca</li><li>Luis Fernando Chambi Orosco</li> </td><td>NOTA:</td><td > </td>
+<td>ESTUDIANTES:</td><td colspan ="3"><li>Luis Ayben Chahua Charca</li><li>Luis Fernando Chambi Orosco</li> </td><td>NOTA:</td><td > </td>
 
 </tr>
 <tr><td colspan="6">DOCENTES:
